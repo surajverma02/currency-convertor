@@ -18,4 +18,4 @@ This project is a web-based Currency Converter built using **React**. The applic
 - **CSS:** Styling of the application for a clean and modern look.
 
 ## Sample
-<img src="/public/react.svg">
+<img src="/public/image.png" />
