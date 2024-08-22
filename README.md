@@ -17,5 +17,9 @@ This project is a web-based Currency Converter built using **React**. The applic
 - **API for Exchange Rates:** Integrated with a third-party API (e.g., ExchangeRate-API, Open Exchange Rates) to fetch real-time currency data.
 - **CSS:** Styling of the application for a clean and modern look.
 
+## Link
+
+<a href="https://currency-converter-application-react.netlify.app/" >Link application </a>
+
 ## Sample
 <img src="/public/image.png" />
